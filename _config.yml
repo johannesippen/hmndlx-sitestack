@@ -6,7 +6,7 @@ collections:
     title: People
     output: true
   posts:
-    title: Posts
+    title: News
     output: true
   products:
     title: Products
