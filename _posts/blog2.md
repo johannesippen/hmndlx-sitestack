@@ -1,5 +1,6 @@
 ---
 title: "«Details Make the Experience» – Interview with Frank Rausch"
+date: 2018-06-04 00:22:00 +02:00
 layout: default
 ---
 
