@@ -2,6 +2,9 @@
 title: HMNDLX Site Stack
 timezone: Europe/Berlin
 collections:
+  people:
+    title: People
+    output: true
   posts:
     title: Posts
     output: true
