@@ -10,7 +10,7 @@ collections:
     output: true
   products:
     title: Products
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
