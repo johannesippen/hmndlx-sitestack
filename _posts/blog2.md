@@ -1,5 +1,5 @@
 ---
-title: «Details Make the Experience» – Interview with Frank Rausch
+title: "«Details Make the Experience» – Interview with Frank Rausch"
 layout: default
 ---
 
