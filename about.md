@@ -1,6 +1,7 @@
 ---
 title: About
 layout: default
+menu_order: 2
 ---
 
 # About

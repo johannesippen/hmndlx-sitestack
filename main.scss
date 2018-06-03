@@ -1,0 +1,35 @@
+---
+---
+
+body {
+	font-family: Georgia, serif;
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 3rem;
+	.nav__burger {
+		display: none;
+	}
+	.nav__logo {
+		width: 50px;
+	}
+	.nav__links {
+		padding: 0;
+		list-style: none;
+		.nav__link {
+			display: inline-block;
+			padding: 1em;
+			color: #000;
+		}
+	}
+}
+
+footer {
+	background-color: #eee;
+	padding: 2rem 0 20rem;
+}

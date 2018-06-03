@@ -1,6 +1,7 @@
 ---
 title: Motivation
 layout: default
+menu_order: 1
 ---
 
 # Motivation

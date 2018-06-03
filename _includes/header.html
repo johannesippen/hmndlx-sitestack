@@ -1,1 +1,19 @@
-header.html
+<nav class="nav__container" id="nav">
+  <button class="nav__burger" id="navToggle">
+    <div class="nav__burger--bun"></div>
+    <div class="nav__burger--patty"></div>
+    <div class="nav__burger--bun"></div>
+  </button>
+  <div class="nav__brand">
+    <a class="" href="/"><img src="/assets/logo.png" alt="" class="nav__logo"></a>
+  </div>
+  <ul class="nav__links">
+{% assign navigation_pages = site.pages | sort: 'menu_order' %}
+{% for p in navigation_pages %}
+  {% if p.menu_order %}
+    <li class="nav__link {% if p.url == page.url %}nav__link--current{% endif %}"><a href="{{ p.url }}" alt="{{ p.title }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}
+  </ul>
+  </div>
+</nav>
