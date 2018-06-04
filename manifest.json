@@ -1,0 +1,21 @@
+{
+  "short_name": "HMNDLX",
+  "name": "HMNDLX Site Stack",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#223344",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#223344"
+}
