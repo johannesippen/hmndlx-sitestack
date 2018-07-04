@@ -1,10 +1,12 @@
 ---
 title: About
-layout: default
 menu_order: 2
+layout: default
 ---
 
 # About
+
+asdsadasda
 
 The study of economics in modern societies is mostly concerned with remunerative incentives[citation needed] rather than moral or coercive incentives – not because the latter two are unimportant, but rather because remunerative incentives are the main form of incentives employed in the world of business, whereas moral and coercive incentives are more characteristic of the sorts of decisions studied by political science and sociology.[citation needed] A classic example of the economic analysis of incentive structures is the famous Walrasian chart of supply and demand curves: economic theory predicts that the market will tend to move towards the equilibrium price because everyone in the market has a remunerative incentive to do so: by lowering a price formerly set above the equilibrium a firm can attract more customers and make more money; by raising a price formerly set below the equilibrium a customer is more able to obtain the good or service that she wants in the quantity she desires.
 
